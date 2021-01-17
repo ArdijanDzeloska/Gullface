@@ -1,0 +1,11 @@
+Start log 
+Login date and time: 17-1-2021 10:51:12
+
+docks has started -------------------------    40,1639
+Hit by box    46,18
+Slid over ink    62,32
+Hit by fish    68,78
+Picked up turtle    70,56
+docks has started -------------------------    234,8495
+Hit by fish    238,38
+Hit by fish    242,14

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3882e8acc48d3174ba632733fa88aaab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tile: {instanceID: 0}
+  - Obstacle: {instanceID: 0}
+  - DumbEnemy: {instanceID: 0}
+  - SlowDown: {instanceID: 0}
+  - Fountain: {instanceID: 0}
+  - Slide: {instanceID: 0}
+  - Sniper: {fileID: 3262331921979660296, guid: 13bcf2ffff4603149b34d2eb7633a3a3, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
