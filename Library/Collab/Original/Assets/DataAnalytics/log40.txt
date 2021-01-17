@@ -1,0 +1,12 @@
+Start log 
+Login date and time: 11-1-2021 17:25:18
+
+docks has started -------------------------    0
+Picked up rotten bread    25,56
+Slid over ink    26,14
+Picked up healthy bread    33,42
+Picked up rotten bread    55,84
+Picked up healthy bread    58,42
+Slid over ink    58,62
+Picked up healthy bread    63,6
+Launched by fountain    64,12

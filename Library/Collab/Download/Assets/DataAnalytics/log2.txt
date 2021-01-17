@@ -1,0 +1,6 @@
+Start log 
+Login date and time: 17-1-2021 10:50:03
+
+docks has started -------------------------    6,664272
+Picked up turtle    13,2
+Hit by box    15,82

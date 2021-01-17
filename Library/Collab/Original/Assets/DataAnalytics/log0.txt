@@ -1,0 +1,6 @@
+Start log 
+Login date and time: 17-1-2021 10:31:21
+
+docks has started -------------------------    7,110859
+Hit by box    13,7
+Hit by box    14,34

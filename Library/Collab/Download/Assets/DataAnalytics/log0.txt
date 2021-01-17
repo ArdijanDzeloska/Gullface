@@ -1,0 +1,10 @@
+Start log 
+Login date and time: 17-1-2021 10:42:45
+
+docks has started -------------------------    4,73116
+Launched by fountain    11,24
+Launched by fountain    13,72
+Picked up rotten bread    18,26
+Slid over ink    27,5
+Hit by box    28,1
+Hit by box    28,86

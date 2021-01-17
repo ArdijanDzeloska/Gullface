@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Blender models/GillfaceBoss.controller
+    - Assets/Blender models/GullfaceBoss.controller
+    - Assets/DataAnalytics/log0.txt
+    - Assets/DataAnalytics/log0.txt.meta
+    - Assets/DataAnalytics/log0DistanceLog.txt
+    - Assets/DataAnalytics/log0DistanceLog.txt.meta
+    - Assets/DataAnalytics/log0DistanceToGillfaceLog.txt
+    - Assets/DataAnalytics/log0DistanceToGillfaceLog.txt.meta
+    - Assets/DataAnalytics/logNotStarted.txt
+    - Assets/Scenes/BossRoom.unity
+    - Assets/Scenes/Docks.unity
+    - Assets/Scripts/Bullet.cs
+    - Assets/Scripts/BulletBoss.cs
+    - Assets/Scripts/DestroyBullet.cs
+    - Assets/Scripts/Enemy.cs
+    - Assets/Scripts/EnemyController.cs
+    - Assets/Scripts/MenuStartScr.cs
+    - Assets/Scripts/PauseMenu.cs
+    - Assets/Scripts/PlayerControllerBossRoom.cs
+    - Assets/Scripts/Sniper.cs
+    - Assets/Scripts/ThrowRock.cs
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
